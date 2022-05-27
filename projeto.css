@@ -1,0 +1,130 @@
+* {
+    font-family: Corinthians;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #fff;
+
+}
+
+header {
+    color:#fff;
+    height: 171px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0px 10px;
+
+}
+
+h1 {
+    color: azure;
+    text-align:center;
+
+
+
+}
+
+h2{
+    text-align: center;
+}
+
+.timao {
+    display: flex;
+}
+
+.timao>li {
+    display: flex;
+    color:#000;
+    background-color: #fff;
+    align-items:flex-end;
+    border-radius: 100px;
+    padding: 5px 10px;
+    margin: 100px;
+    box-shadow: 5px 5px 5px 1px #fff;
+    margin-left: 15px;
+
+}
+
+
+
+nav {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    color: black;
+
+}
+
+h4 {
+    color: black;
+    align-items:flex-start;
+}
+
+p{
+    text-align:center;
+    color: black;
+
+  
+    
+}
+
+.p2{
+    text-align: justify;
+    
+}
+
+img {
+    display: flex;
+    width: 50%;
+
+
+
+
+}
+
+h3 {
+    font-size:30px;
+    border-bottom:20px 20px 1em #fff;
+    color: black;
+    background-color: ;
+    text-align: center;
+    
+}
+
+div {
+    background-color: ;
+    color: #fff;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-items: end;
+    align-items: center;
+}
+
+
+section {
+    article {
+        display: flex;
+        flex:start;
+        justify-items: center;
+        text-align: center
+    }
+
+}
+
+
+
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
